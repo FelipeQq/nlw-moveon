@@ -48,3 +48,10 @@ npm dev run
 Felipe Queiroz
 
 https://www.linkedin.com/in/felipe-queiroz-384b13187/
+
+<br>
+<br>
+<br>
+<a href="https://github.com/diego3g" target="_new">
+  <img src="https://img.shields.io/badge/-Diego%20Fernandes%20-000000?style=flat-square&labelColor=000000&logo=github&logoColor=white"/>
+</a>
