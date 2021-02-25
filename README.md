@@ -23,7 +23,7 @@ visa ajudar o usuário a manter o foco, a saúde mental e corporal! Além de ser
 - ReactJS
 
 ## React
-- utilização de hooks, contextAPI, componentes e propriedades.
+- Utilização de hooks, contextAPI, componentes e propriedades.
 
 # Execução do Projeto
 
