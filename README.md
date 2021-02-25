@@ -21,6 +21,7 @@ visa ajudar o usuário a manter o foco, a saúde mental e corporal! Além de ser
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
+- NextJS
 
 ## React
 - Utilização de hooks, contextAPI, componentes e propriedades.
