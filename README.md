@@ -16,6 +16,9 @@
 <p>A aplicação é uma ferramenta que segue os princípos da tecnica pomodoro (saiba mais sobre <a href="https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro">Clicando aqui</a>), de forma interativa 
 visa ajudar o usuário a manter o foco, a saúde mental e corporal! Além de ser tudo englobado por gamificação, onde torna a experiência ainda mais interessante.</p>
 
+<img  width="100%" src="https://github.com/FelipeQq/nlw-moveon/blob/main/gif-app.gif">
+
+
 # Tecnologias utilizadas
 
 ## Front end
