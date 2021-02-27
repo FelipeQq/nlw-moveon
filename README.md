@@ -11,7 +11,7 @@
 
 # Sobre
 
-<p>O Move.on é uma aplicação front-end contruída durante a 4º edição do ***Next Level Week***, evento organizado pela <a href="https://rocketseat.com.br/">[Rocketseat]</a>.</p>
+<p>O Move.on é uma aplicação front-end contruída durante a 4º edição do **Next Level Week**, evento organizado pela <a href="https://rocketseat.com.br/">[Rocketseat]</a>.</p>
 
 <p>A aplicação é uma ferramenta que segue os princípos da tecnica pomodoro (saiba mais sobre <a href="https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro">Clicando aqui</a>), de forma interativa 
 visa ajudar o usuário a manter o foco, a saúde mental e corporal! Além de ser tudo englobado por gamificação, onde torna a experiência ainda mais interessante.</p>
