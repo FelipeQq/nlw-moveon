@@ -37,9 +37,6 @@ visa ajudar o usuário a manter o foco, a saúde mental e corporal! Além de ser
 # clonar repositório
 git clone https://github.com/FelipeQq/nlw-moveon.git
 
-# entrar na pasta do projeto front end
-cd front-web
-
 # instalar dependências
 npm install 
 
